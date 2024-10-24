@@ -45,8 +45,8 @@ class DeliveryTest {
         $("[data-test-id=date] input").setValue(secondMeetingDate);
        // $("button.button").click();
         $(byText("Запланировать")).click();
-        $("[data-test-id='replan-notification] .notification__content")
-                .shouldHave(text("У вас уже запланирована встреча на другую дату.Перепланировать?"))
+        $("[data-test-id='replan-notification'] .notification__content")
+                .shouldHave(text("У вас уже запланирована встреча на другую дату. Перепланировать?"))
                 .shouldBe(visible);
 
         $("[data-test-id='replan-notification'] button").click();
