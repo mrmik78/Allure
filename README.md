@@ -1,7 +1,6 @@
-![image](https://github.com/user-attachments/assets/c6dfab13-0895-49ae-9016-936b4115db40)
+[![Java CI with Gradle](https://github.com/mrmik78/Allure/actions/workflows/gradle.yml/badge.svg)](https://github.com/mrmik78/Allure/actions/workflows/gradle.yml)
 
-![image](https://github.com/user-attachments/assets/1617e6e1-add4-40b2-91d3-4da66c9c8d52)
+![image](https://github.com/user-attachments/assets/9600f16d-bc79-4f30-9a6f-cf829756da8c)
 
-![image](https://github.com/user-attachments/assets/1ac3a01d-b1f1-44ee-96ca-ca52debbb01e)
+![image](https://github.com/user-attachments/assets/d695414a-db7a-4176-b78d-851c8288d9e4)
 
-![image](https://github.com/user-attachments/assets/ee3187a0-4439-4b09-bdb7-723771a727e4)
